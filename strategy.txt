@@ -1,0 +1,11 @@
+Strategy
+
+Age Grouping: 0-20; 21-30; 31-40; 41-50; 51-60; 61-70; 71-80; 81-90; 91-100
+Martial Status Grouping: Married, Divorced
+Education Grouping: primary, secondary, tertiary, unknown
+Contact: Cellular, Telephone, unknown
+
+
+Cluster:
+1. Age + Marital Status + Education
+2. 
